@@ -4,3 +4,5 @@ from tests.tests import *
 with Test() as test:
     test.test_all()
 
+print("End of tests")
+
